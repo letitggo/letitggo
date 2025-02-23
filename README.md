@@ -1,10 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=26eff2&height=120&text=&animation=blinking&fontColor=349bea&fontSize=50" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
-    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
@@ -27,7 +21,12 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seong57&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        <div align= "center"> 
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gustjr7297" alt="Solved.ac Profile">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seong57&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> 
+        </div> 
     </div>
+    
     
