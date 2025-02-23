@@ -30,5 +30,5 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seong57&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/gustjr7297)
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gustjr7297)](https://solved.ac/gustjr7297)
     
